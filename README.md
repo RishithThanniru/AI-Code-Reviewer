@@ -151,6 +151,7 @@ Days 1–11 established the core: AST parsing, static analysis, complexity estim
 ## 👤 Author
 
 **Thanniru Rishith**
-Final-year B.Tech (AI/ML), Guru Nanak Institute of Technology, Hyderabad
+
+ B.Tech (AI/ML), Guru Nanak Institute of Technology, Hyderabad
 
 - LinkedIn: [linkedin.com/in/rishiththanniru25](https://linkedin.com/in/rishiththanniru25)
