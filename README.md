@@ -158,7 +158,6 @@ Generate downloadable PDF reports including
 | Frontend | Streamlit |
 | AI Model | Groq Llama 3.3 |
 | Parsing | Python AST, Tree-sitter |
-| Machine Learning | TF-IDF, Cosine Similarity |
 | Database | SQLite |
 | Visualization | Plotly |
 | Reports | ReportLab |
